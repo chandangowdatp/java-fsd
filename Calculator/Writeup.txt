@@ -1,0 +1,10 @@
+Calculator program starts with taking user input to choose specific operation. 
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Exit
+
+Then it takes two inputs to perform arithmetic operations. 
+Then prints the result.
+The programs will run repeatedly until the user chooses input 5.

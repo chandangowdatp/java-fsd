@@ -1,7 +1,5 @@
 import java.util.Scanner;
-
 class Operations{
-
     final static int add(int a,int b) {
     	return a+b;
     }
@@ -21,7 +19,6 @@ class Calculator extends Operations{
 		this.w=w;
 		System.out.println("...."+w+".....");
 	}
-
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		Calculator obj=new Calculator("Calculator");
@@ -55,7 +52,6 @@ class Calculator extends Operations{
 		else {
 			System.out.println("Enter valid input(1-5)");
 		}
-		}
 	}
-
+     }
 }
