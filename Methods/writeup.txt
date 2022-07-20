@@ -1,0 +1,2 @@
+In this program first we define an array . then using constructor then we convert into array list.
+If the the user input email is present the array list then return the result
