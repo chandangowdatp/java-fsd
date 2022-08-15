@@ -21,7 +21,7 @@
  
   <servlet-mapping>
     <servlet-name>Dashboard</servlet-name>
-    <url-pattern>/dashboard</url-pattern>
+    <url-pattern>/Dashboard</url-pattern>
   </servlet-mapping>
    <servlet-mapping>
     <servlet-name>LoginServlet</servlet-name>
