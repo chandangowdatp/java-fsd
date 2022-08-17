@@ -1,0 +1,60 @@
+body {  
+  font-family: Calibri, Helvetica, sans-serif;  
+  background-color: #FDF5DF;  
+
+}  
+
+h1{
+	color: #5EBEC4;
+	font-size:4vw;
+	font-family:Verdana;
+	margin-top:5vw;
+}
+button {   
+	font-family:Verdana;
+	  justify-content: center;
+       background-color: #2568FB;   
+       width: 100%;  
+        color: white;   
+        padding: 1.5vw;   
+        margin: 1.5vw 0px;   
+        border: none; 
+        border-radius:1vw;  
+        cursor: pointer;   
+         }  
+          
+ form {   
+ font-family:Verdana;
+        border-radius: 1vw;
+ 		width: 45%;
+ 		margin: 0 auto;
+    }   
+    label {
+    color: #2568FB;
+    }
+ input[type=text], input[type=password] {  
+ font-family:Verdana;
+ 	justify-content: center;  
+        width: 100%;   
+        text-decoration:none;
+        border:none;
+        margin: 0.8vw 0;  
+        padding: 1.2vw 2vw;   
+        display: inline-block;   
+        border-radius:1vw; 
+        box-sizing: border-box;   
+    }  
+ button:hover {   
+        opacity: 0.8;   
+    }   
+   
+         
+ .container {   
+ font-family:Verdana;
+  		  margin-top:5vw;
+  justify-content: center;
+        padding: 2vw;   
+        border-radius:1vw;
+        background-color: #FECD45;  
+        color: #5EBEC4;
+    }   
