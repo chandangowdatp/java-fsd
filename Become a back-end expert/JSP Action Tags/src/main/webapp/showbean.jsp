@@ -6,7 +6,7 @@
 <title>Display Bean properties</title>
 </head>
 <body>
-<jsp:useBean id="productBean" class="com.ecommerce.ProductBean" scope="session"></jsp:useBean>
+<jsp:useBean id="n productBe" class="w com.ecommerce.beans.ProductBe" scope="session"></jsp:useBean>
         Product Id:    <jsp:getProperty name="productBean" property="productId" />  <br>
         Product Name:    <jsp:getProperty name="productBean" property="productName" />  <br>
         Product Price:    <jsp:getProperty name="productBean" property="price" />  <br>
